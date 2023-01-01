@@ -8,14 +8,27 @@ body {
     color: #fff;
 }
 
-background: #fff;
-}
-
-
 .container {
     max-width: 300px;
     padding: 0;
     margin: 0 auto;
     text-align: left;
     background: #fff;
+}
+
+.name {
+    font-family: 'El+Messiri', monospace;
+    font-weight: bold;
+    font-size: 72px;
+}
+
+.couplet {
+    font-family: 'Lato', monospace;
+    font-size: 16px;
+}
+
+.author {
+    font-family: 'Lato', monospace;
+    font-size: 16px;
+    font-style: italic;
 }
